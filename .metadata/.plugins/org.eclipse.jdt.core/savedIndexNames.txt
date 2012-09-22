@@ -1,1 +1,0 @@
-INDEX VERSION 1.126+/Users/abhilash/Documents/workspace/Analytics/.metadata/.plugins/org.eclipse.jdt.core
